@@ -1,2 +1,2 @@
-# technical-portfolio
-Work samples, technical writing and learning
+# legal-portfolio
+Work samples, legal writing and learning
